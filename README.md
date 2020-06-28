@@ -8,6 +8,7 @@
 2. Visualise big raw data to draw insights and find patterns within the data
 ## Analysis and Challenges
 - Below is the summary of 3 main analysis and challenges:
+
     1- Mastering Pivot Tables. Even though in the Pivot Tables the information is more organized, there is a challenge in instructing the proper table which helps to provide clear data analytics insights.
 
     2- Using formulas in excel. Ultimately formulas are cruical in performing tasks automatically helping to translate vision into reality and build the analysis that is in one's head. There is a challenge when using combination of formulas across different ranges and criteria.
